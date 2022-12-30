@@ -5,8 +5,6 @@ Created on Mon Dec 26 19:20:00 2022
 @author: svenj
 """
 
-#%% Plotting a Simple Line Graph
-
 import matplotlib.pyplot as plt
 
 input_values = [1, 2, 3, 4, 5]
